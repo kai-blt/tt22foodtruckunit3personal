@@ -17,5 +17,5 @@ _Live Example: https://create-react-app.now-examples.now.sh/_
 To get started with React, along with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction), with Vercel, you can use the [Create-React-App CLI](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app) to initialize the project:
 
 ```shell
-$ npx create-react-app my-app
+$ npx create-react-app my-app  
 ```
